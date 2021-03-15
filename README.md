@@ -1,8 +1,6 @@
-# Mail (Project 3)
+# Mail
 
-## **CS50's Web Programming with Python and JavaScript**
-
-This is our fourth project. It's designed to talk with an api to make a mail application by fetching responses from and making requests to that api.
+This project is designed to talk with an api to make a mail application by fetching responses from and making requests to that api.
 
 This project's source code includes 2 folders, a manage.py file which manages the whole application and an sqlite database file. Below are the **main files** under those folders.
 
