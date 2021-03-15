@@ -1,0 +1,6 @@
+textarea {
+    min-height: 200px;
+}
+#reads, #unreads {
+    cursor: pointer;
+}
